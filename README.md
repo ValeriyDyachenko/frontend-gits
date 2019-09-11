@@ -19,6 +19,9 @@
   - [Nginx](#nginx)
   - [Angular](#angular)
   - [NodeJS](#nodejs-1)
+  - [Webpack](#webpack)
+  - [CSS](#css-1)
+  - [Patterns](#patterns)
 - [Packages:](#packages)
   - [JavaScript](#javascript-2)
   - [React](#react-2)
@@ -67,6 +70,9 @@ ___
 + [module-best-practices](https://github.com/mattdesl/module-best-practices) &ndash; some best practices for JS modules.
 + [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) &ndash; algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 + [es6-features](https://github.com/rse/es6-features) &ndash; ECMAScript 6: Feature Overview & Comparison.
++ [wtfjs](https://github.com/denysdovhan/wtfjs) &ndash; A list of funny and tricky JavaScript examples.
++ [idiomatic.js](https://github.com/rwaldron/idiomatic.js) &ndash; principles of Writing Consistent, Idiomatic JavaScript.
++ [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) &ndash; cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
 ### React
 
@@ -82,6 +88,7 @@ ___
 ### NodeJS
 
 + [node-tutorial-for-frontend-devs](https://github.com/cwbuecheler/node-tutorial-for-frontend-devs) &ndash; a tutorial for Front-End developers showing how to get Node, Express and Jade up and running, connected to MongoDB, and reading from / writing to the database.
++ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) &ndash; delightful Node.js packages and resources.
 
 ### NextJS
 
@@ -116,6 +123,8 @@ ___
 
 + [free-programming-books](https://github.com/EbookFoundation/free-programming-books) &ndash; freely available programming books.
 + [Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) &ndash; an awesome curated list of clean code posts, books and videos.
++ [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README-EN.md) &ndash; this is a map that can help you prepare better for the next interview.
++ [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) &ndash; step-by-step tutorial to build a modern JavaScript stack.
 
 ---
 
@@ -131,6 +140,8 @@ ___
 + [react-slack-clone](https://github.com/pusher/react-slack-clone) &ndash; complete chat application.
 + [react-kanban](https://github.com/markusenglund/react-kanban) &ndash; a Trello-like application built with React and Redux.
 + [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app) &ndash; exemplary real world application built with React + Redux.
++ [react-demos](https://github.com/ruanyf/react-demos) &ndash; a collection of simple demos of React.js.
++ [react-testing-demo](https://github.com/ruanyf/react-testing-demo) &ndash; a tutorial of testing React components.
 
 ### JavaScript
 
@@ -151,6 +162,18 @@ ___
 + [typescript-koa-example](https://github.com/typeorm/typescript-koa-example) &ndash; example how to use Koa and TypeORM with TypeScript.
 + [docker-node-mongo-nginx](https://github.com/duytran/docker-node-mongo-nginx) &ndash; the docker stack with Node.js, MongoDB and Nginx.
 
+### Webpack
+
++ [webpack-demos](https://github.com/ruanyf/webpack-demos) &ndash; a collection of simple demos of Webpack.
+
+### CSS
+
++ [css-modules-demos](https://github.com/ruanyf/css-modules-demos) &ndash; a collection of simple demos of CSS Modules.
+
+### Patterns
+
++ [extremely-simple-flux-demo](https://github.com/ruanyf/extremely-simple-flux-demo) &ndash; learn Flux from an extremely simple demo.
+
 ---
 
 ## Packages:
@@ -167,6 +190,13 @@ ___
 + [hotkeys](https://github.com/jaywcjlove/hotkeys) &ndash; a robust Javascript library for capturing keyboard input. It has no dependencies.
 + [ow](https://github.com/sindresorhus/ow) &ndash; function argument validation for humans.
 + [javascript](https://github.com/airbnb/javascript) &ndash; JavaScript Style Guide.
++ [json-server](https://github.com/typicode/json-server) &ndash; get a full fake REST API with zero coding in less than 30 seconds (seriously).
++ [lowdb](https://github.com/typicode/lowdb) &ndash; lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
++ [socket.io](https://github.com/socketio/socket.io) &ndash; realtime application framework (Node.JS server).
++ [postcss](https://github.com/postcss/postcss) &ndash; transforming styles with JS plugins.
++ [logux](https://github.com/logux/logux) &ndash; replace AJAX-REST by Redux actions synchronization between client and server.
++ [RxJS](https://github.com/Reactive-Extensions/RxJS) &ndash; the Reactive Extensions for JavaScript.
++ [particles.js](https://github.com/VincentGarreau/particles.js) &ndash; a lightweight JavaScript library for creating particles.
 
 ### React
 
@@ -181,6 +211,7 @@ ___
 + [reselect](https://github.com/reduxjs/reselect) &ndash; selector library for Redux.
 + [re-reselect](https://github.com/toomuchdesign/re-reselect) &ndash; enhance Reselect selectors with deeper memoization and cache management.
 + [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) &ndash; a set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list.
++ [react-select](https://github.com/JedWatson/react-select) &ndash; the Select Component for React.js.
 
 ### NextJS
 
@@ -237,6 +268,7 @@ ___
 + [react-redux-bootstrap-webpack-ssr-starter](https://github.com/MacKentoch/react-redux-bootstrap-webpack-ssr-starter) &ndash; react js + redux + react router 4 + bootstrap + webpack3 + server side rendering starter.
 + [next-saga-boilerplate](https://github.com/batusai513/next-saga-boilerplate) &ndash; base next.js boilerplate with redux saga, axios and normalizr.
 + [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) &ndash; a starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform.
++ [react-babel-webpack-boilerplate](https://github.com/ruanyf/react-babel-webpack-boilerplate) &ndash; a boilerplate for React-Babel-Webpack project.
 
 ### Eleventy
 
@@ -256,3 +288,4 @@ ___
 + [movielistr-backend-ts-ioc](https://github.com/ivarvh/movielistr-backend-ts-ioc) &ndash; movielistr backend in nodejs.
 + [node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) &ndash; REST API boilerplate using NodeJS and KOA2, typescript.
 + [node-typescript-starter](https://github.com/RisingStack/node-typescript-starter) &ndash; skeleton for Node.js applications written in TypeScript.
++ [hackathon-starter](https://github.com/sahat/hackathon-starter) &ndash; a boilerplate for Node.js web applications.
