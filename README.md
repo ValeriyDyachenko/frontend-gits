@@ -254,6 +254,7 @@ ___
 ### SSG
 
 + [awesome-static-generators](https://github.com/myles/awesome-static-generators) &ndash; a curated list of static web site generators.
++ [docsify](https://github.com/docsifyjs/docsify) &ndash; a magical documentation site generator.
 
 ### Icons
 
